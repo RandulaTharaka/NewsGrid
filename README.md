@@ -8,7 +8,7 @@ NewsGrid is a fully responsive news website template
 featuring a modern css grid layout, category-based article
 organization, and dedicated pages for stories and site
 info. Built with clean HTML and CSS, it adapts seamlessly
-to both desktop and mobile devices
+to both desktop and mobile devices.
 
 ![Screens](img/NewsGrid.jpg)
 
