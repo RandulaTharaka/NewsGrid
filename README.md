@@ -1,6 +1,6 @@
 # 💻 NewsGrid - News Website Template
 
-> Built with HTML, CSS Grid, Responsive Media Queries
+> Built with HTML, CSS Grid & Responsive Media Queries
 
 🌐 Visit Site: [www.newsgrid.com](https://)
 
@@ -23,25 +23,26 @@ to both desktop and mobile devices.
 ## 🧩 Project Structure
 
 ```
-about.html
-article.html
-favicon.ico
-index.html
-css/
-	mobile.css
-	style.css
-img/
-	featured.jpg
-	icon.png
-	logo_light.png
-	logo.png
-	logo.psd
-	articles/
-		ent1.jpg
-		ent2.jpg
-		sports1.jpg
-		tech1.jpg
-		tech2.jpg
+NewsGrid/
+├── about.html           # About page
+├── article.html         # Article details page
+├── favicon.ico          # Site favicon
+├── index.html           # Homepage
+├── css/
+│   ├── mobile.css       # Mobile-specific styles
+│   └── style.css        # Main stylesheet
+├── img/
+│   ├── featured.jpg     # Main featured image
+│   ├── icon.png         # Site icon
+│   ├── logo_light.png   # Light logo variant
+│   ├── logo.png         # Main logo
+│   ├── logo.psd         # Logo source file
+│   └── articles/
+│       ├── ent1.jpg     # Entertainment article image 1
+│       ├── ent2.jpg     # Entertainment article image 2
+│       ├── sports1.jpg  # Sports article image
+│       ├── tech1.jpg    # Tech article image 1
+│       └── tech2.jpg    # Tech article image 2
 ```
 
 ## 📦 Installation
