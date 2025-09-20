@@ -2,7 +2,7 @@
 
 > Built with HTML, CSS Grid & Responsive Media Queries
 
-🌐 [Visit Site](https://randulatharaka.github.io/NewsGrid/){:target="\_blank"}
+<a href="https://randulatharaka.github.io/NewsGrid/" target="_blank" rel="noopener noreferrer">🌐 Visit Site</a>
 
 NewsGrid is a fully responsive news website template
 featuring a modern css grid layout, category-based article
